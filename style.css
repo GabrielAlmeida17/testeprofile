@@ -28,6 +28,10 @@
 body {
   background: var(--bg-url) no-repeat top center/cover;
   overflow: hidden;
+   margin: 0 !important;
+    padding: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
  
 }
 
@@ -163,6 +167,3 @@ footer {
   color: var(--copy-color);
   user-select: none;
 }
-@media screen {
-
-  background-size: cover
