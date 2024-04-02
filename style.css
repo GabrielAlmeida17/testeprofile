@@ -27,11 +27,8 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
-  overflow: hidden;
-   margin: 0 !important;
-    padding: 0 !important;
-    width: 100vw !important;
-    height: 100vh !important;
+  background-attachment: var(--bg-url) scroll;
+  
  
 }
 
