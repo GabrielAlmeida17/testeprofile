@@ -32,7 +32,6 @@ body {
 body * {
   font-family: "Inter", sans-serif;
   color: var(--text-color);
-   background-size: cover
 }
 
 #conteiner {
@@ -161,3 +160,6 @@ footer {
   color: var(--copy-color);
   user-select: none;
 }
+@media screen {
+
+  background-size: cover
