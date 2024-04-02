@@ -31,8 +31,8 @@ body {
 
 body * {
   font-family: "Inter", sans-serif;
-  overflow: hidden;
   color: var(--text-color);
+   background-size: cover
 }
 
 #conteiner {
